@@ -1,0 +1,3 @@
+@Imports SuperStore_APIWeb.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
